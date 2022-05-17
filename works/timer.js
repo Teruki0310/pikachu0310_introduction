@@ -149,7 +149,7 @@ const countSuper = () => {
     }
     if (count == 10000000){
         const countElement = document.querySelector('#hosii2')
-        countElement.innerText = "ソースどうですか？アドバイスあればtimesにくださいお願いします。"
+        countElement.innerText = "PIKACTF{SAUCE_OISII}"
     }
 }
 window.onload = function(){
